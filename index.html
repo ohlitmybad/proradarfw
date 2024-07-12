@@ -1259,9 +1259,10 @@ const _0x3fdd23=_0x1ad0;(function(_0x361e8d,_0x273a91){const _0x296c5f=_0x1ad0,_
   const isDarkMode = body.classList.contains('dark-mode');
   const backgroundColor = isDarkMode ? '#0F0F0E' : '#ffffff'; // Black for dark mode, white for light mode
   
-  // Function to detect iOS devices
   const isIOS = () => {
-    return /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+    return (/iPad|iPhone|iPod/.test(navigator.userAgent) || 
+           (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)) && 
+           !window.MSStream;
   };
 
   try {
