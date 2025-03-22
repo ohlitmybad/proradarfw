@@ -1,0 +1,29 @@
+{
+  "search": {
+    "placeholder2": "Chercher un ailier..."
+  },
+  "table": {
+    "percentiles": "Centiles",
+    "age": "Âge",
+    "progCarries": "Courses prog",
+    "dribbles": "Dribbles",
+    "npg": "Buts hors pen",
+    "xgxa": "xG + xA",
+    "assists": "Passes décisives",
+    "keyPasses": "Passes clés",
+    "attActions": "Actions off",
+    "minutes": "Minutes jouées"
+  },
+  "radar": {
+    "keyPasses": "Passes Clés",
+    "assists": "Passes D",
+    "xgxa": "xG+xA",
+    "npg": "Buts",
+    "dribbles": "Dribbles",
+    "carries": "Courses",
+    "attActions": "Actions Off"
+  },
+  "similar": {
+    "to": "Données similaires à"
+  }
+} 
