@@ -6,22 +6,22 @@
     "percentiles": "Centiles",
     "age": "Âge",
     "progCarries": "Courses prog",
-    "dribbles": "Dribbles",
-    "npg": "Buts hors pen",
-    "xgxa": "xG + xA",
+    "dribbles": "Dribbles réussis",
+    "npg": "Buts HP",
+    "xgxa": "npxG +xA",
     "assists": "Passes décisives",
     "keyPasses": "Passes clés",
-    "attActions": "Actions off",
-    "minutes": "Minutes jouées"
+    "cross": "Centres réussis",
+    "minutes": "Minutes"
   },
   "radar": {
-    "keyPasses": "Passes Clés",
+    "keyPasses": "Passes clés",
     "assists": "Passes D",
-    "xgxa": "xG+xA",
-    "npg": "Buts",
+    "xgxa": "npxG+xA",
+    "npg": "Buts HP",
     "dribbles": "Dribbles",
     "carries": "Courses",
-    "attActions": "Actions Off"
+    "cross": "Centres"
   },
   "similar": {
     "to": "Données similaires à"
