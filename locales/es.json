@@ -1,0 +1,39 @@
+{
+  "search": {
+    "placeholder2": "Introduce nombre de extremo..."
+  },
+  "table": {
+    "percentiles": "Percentiles",
+    "age": "Edad",
+    "progCarries": "Carreras prog",
+    "dribbles": "Regates cmp",
+    "npg": "NPG",
+    "xgxa": "npxG +xA",
+    "assists": "Asistencias",
+    "keyPasses": "Pases clave",
+    "cross": "Centros cmp",
+    "minutes": "Minutos"
+  },
+  "radar": {
+    "keyPasses": "Pases clave",
+    "assists": "Asistencias",
+    "xgxa": "npxG+xA",
+    "npg": "NPG",
+    "dribbles": "Regates",
+    "carries": "Conducción",
+    "cross": "Centros"
+  },
+  "similar": {
+    "to": "Datos similares a"
+  },
+"season_all": "Todas las Temporadas", 
+"season_current": "Temporada Actual",
+"league_all": "Todas las Ligas",
+"league_top7": "7 Principales Ligas",
+"league_outside": "Fuera de las 7 Principales", 
+"age_all": "Todas las Edades",
+"age_u30": "Menores de 30",
+"age_u25": "Menores de 25",
+"age_u23": "Menores de 23",
+"age_u21": "Menores de 21"
+} 
